@@ -8,4 +8,3 @@ Learning .NET/Game Development<br>Working on Getting An internship<br>Studying F
 ![](https://github-readme-stats.shion.dev/api?username=CryptKeeperDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CryptKeeperDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-[![](https://komarev.com/ghpvc/?username=CryptKeeperDev&icon=1&color=11)](https://visitcount.itsvg.in)
