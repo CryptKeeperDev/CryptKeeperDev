@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning SpringBoot/Game Development<br>Working on Getting An internship<br>Studying For Backend/CyberSec Jobs
+Learning .NET/Game Development<br>Working on Getting An internship<br>Studying For Backend/CyberSec Jobs
 
 
 # 💻 Tech Stack:
