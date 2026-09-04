@@ -29,21 +29,14 @@ I'm a backend developer studying for Backend/CyberSec roles, learning .NET and G
 
 ---
 
-### GitHub Stats
+### 📈 GitHub Activity Summary
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptkeeperdev&layout=compact&theme=synthwave&hide_border=true" alt="Most Used Languages" width="400" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=cryptkeeperdev&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" width="400" />
-</p>
-
-### Contribution Graph
-<p align="left">
-  <img src="https://snk-generator.vercel.app/api/snake?githubUsername=cryptkeeperdev&theme=dark" alt="Contribution Snake" width="100%" />
-</p>
----
+![](https://img.shields.io/github/followers/cryptkeeperdev?style=for-the-badge&logo=github&color=512BD4)
+![](https://img.shields.io/github/stars/cryptkeeperdev?style=for-the-badge&logo=github&color=ED8B00)
 
 ### Certifications & Verified Badges
+
+---
 
 | Certificate / Badge | Issuing Authority | Verification Link |
 | :--- | :--- | :---: |
