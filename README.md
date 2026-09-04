@@ -5,7 +5,7 @@ Learning .NET/Game Development<br>Working on Getting An internship<br>Studying F
 
 | Certificate / Badge | Issuing Authority | Verification Link |
 | :--- | :--- | :---: |
-| **CS50: Introduction to Computer Science** | HarvardX / CS50 | [Verify Credential](https://cs50.harvard.edu/certificates/7d955115-345a-4c44-834d-fb89207211f7) |
+| **CS50: Introduction to Cybersecurity** | HarvardX / CS50 | [Verify Credential](https://cs50.harvard.edu/certificates/7d955115-345a-4c44-834d-fb89207211f7) |
 | **Foundational C# with Microsoft** | freeCodeCamp / Microsoft | [Verify Credential](https://freecodecamp.org/certification/cryptkeeperdev/foundational-c-sharp-with-microsoft) |
 | **Relational Database Certification** | freeCodeCamp | [Verify Credential](https://freecodecamp.org/certification/cryptkeeperdev/relational-databases-v9) |
 | **A2 English for Developers** | freeCodeCamp | [Verify Credential](https://freecodecamp.org/certification/cryptkeeperdev/a2-english-for-developers) |
