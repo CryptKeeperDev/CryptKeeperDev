@@ -32,16 +32,15 @@ I'm a backend developer studying for Backend/CyberSec roles, learning .NET and G
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cryptkeeperdev&layout=compact&theme=synthwave&hide_border=true" alt="Most Used Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptkeeperdev&layout=compact&theme=synthwave&hide_border=true" alt="Most Used Languages" width="400" />
   <br /><br />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cryptkeeperdev&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cryptkeeperdev&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" width="400" />
 </p>
 
 ### Contribution Graph
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cryptkeeperdev&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://snk-generator.vercel.app/api/snake?githubUsername=cryptkeeperdev&theme=dark" alt="Contribution Snake" width="100%" />
 </p>
-
 ---
 
 ### Certifications & Verified Badges
