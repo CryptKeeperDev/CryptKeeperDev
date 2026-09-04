@@ -29,7 +29,7 @@ I'm a backend developer studying for Backend/CyberSec roles, learning .NET and G
 
 ---
 
-### 📈 GitHub Activity Summary
+### GitHub Activity Summary
 
 ![](https://img.shields.io/github/followers/cryptkeeperdev?style=for-the-badge&logo=github&color=512BD4)
 ![](https://img.shields.io/github/stars/cryptkeeperdev?style=for-the-badge&logo=github&color=ED8B00)
