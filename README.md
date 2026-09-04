@@ -1,7 +1,7 @@
 # Greetings!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/cryptkeeperdev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/cryptkeeperdev)
 ![Visitors](https://komarev.com/ghpvc/?username=cryptkeeperdev&color=blue&style=flat)
 
 I'm a backend developer studying for Backend/CyberSec roles, learning .NET and Game Development, and working towards landing an internship.
