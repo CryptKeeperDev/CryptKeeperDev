@@ -1,5 +1,4 @@
-
-# Hi there 👋
+# Hi there
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com)
@@ -9,7 +8,7 @@ I'm a backend developer studying for Backend/CyberSec roles, learning .NET and G
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -30,20 +29,22 @@ I'm a backend developer studying for Backend/CyberSec roles, learning .NET and G
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptkeeperdev&layout=compact&theme=synthwave&hide_border=true" alt="Most Used Languages" width="400" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptkeeperdev&theme=synthwave&hide_border=true" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cryptkeeperdev&layout=compact&theme=synthwave&hide_border=true" alt="Most Used Languages" width="400" />
+  <br /><br />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cryptkeeperdev&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" width="400" />
 </p>
 
-### 📊 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=cryptkeeperdev&theme=react-dark&hide_border=true)
+### Contribution Graph
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cryptkeeperdev&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
+</p>
 
 ---
 
-### 📜 Certifications & Verified Badges
+### Certifications & Verified Badges
 
 | Certificate / Badge | Issuing Authority | Verification Link |
 | :--- | :--- | :---: |
